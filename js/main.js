@@ -267,3 +267,6 @@ window.addEventListener("load", () => {
         document.querySelector(".loader").style.display = "none";
     }, 600)
 })
+
+
+c
