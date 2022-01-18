@@ -268,5 +268,3 @@ window.addEventListener("load", () => {
     }, 600)
 })
 
-
-c
